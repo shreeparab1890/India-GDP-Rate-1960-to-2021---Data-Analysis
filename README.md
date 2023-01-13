@@ -62,5 +62,19 @@ Please Go thorugh the ipython file for more in detail analysis, below are some k
 
 ![year-wise-graph](Year-wise.jpg)
 
+### Which is the year with minimum GDP Growth:
+    We can see that the 2020 was the year with lowest GDP growth i.e. -6.6%. This may be because of the COVID-19 pandamic.
+### Which are the 3 years which has seen lowest GDP Growth:
+    We can see that 2020, 1979 and 1965 are the 3 years with lowest growth. 
+    - 1965 was India - Pakistan War, 
+    - 1979 had severe drought gripping most of the country and crude oil prices almost doubling due to Iranian Revolution which caused a disruption of oil supply.    Also, India just came out of emergency(1975-1977), 
+    - 2020 was hit by the COVID 19 pandamic.
+### Which is the year with Highest GDP Growth:
+    - 1988 was the year with highest growth of 9.33%
+### Which are the top years with highest GDP Growth:
+    - 1988, 1975, 2021, 1999, 2010 were the top five years with highest growth.
+### Which is the year with Highest Per Capita Income:
+    - The Year 2021 is the year with highest GDP Per Capita Income of $2277
+
 
 
