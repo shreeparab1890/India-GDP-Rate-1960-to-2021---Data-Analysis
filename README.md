@@ -38,6 +38,9 @@ Overall, EDA is a crucial step in the data analysis process, as it allows analys
 Gross Domestic Product (GDP) is a measure of the economic activity of a country. It is the total value of goods and services produced within a country in a given period of time, typically a year. It is used to gauge the health of a country's economy and as a comparison tool between countries. It is also used to calculate other economic indicators such as Gross National Product (GNP) and Gross National Income (GNI).  
 
 ## GDP per capita
-GDP per capita, which is GDP divided by the population, is often used as a measure of the standard of living in a country. However, it has some limitations as a measure of well-being, as it does not take into account factors such as income inequality and environmental sustainability.
+GDP per capita, which is calculated by dividing the Gross Domestic Product (GDP) of a country by its population, is commonly used as an indicator of the standard of living in a country. However, it is important to note that it has certain limitations as a measure of overall well-being. The GDP per capita does not account for factors such as income inequality and environmental sustainability, which can have a significant impact on a country's overall well-being.  
+
+## GDP Growth Rate
+The GDP growth rate is a measure of the change in a country's economic output over a specific period. It is commonly expressed as a percentage and is used to indicate the rate at which the economy is expanding. This measure is considered important by economic policymakers as it is believed to have a strong correlation with key policy objectives such as inflation and unemployment levels. The GDP growth rate is used as an indicator of a country's overall economic health and to compare the performance of different economies.
 
 
