@@ -60,4 +60,7 @@ Data Columns are:
 ## EDA (Data Analysis Results):
 Please Go thorugh the ipython file for more in detail analysis, below are some key Details.
 
+![year-wise-graph](Year-wise.jpg)
+
+
 
