@@ -12,4 +12,32 @@ This ipython notebook is the Exploratory data analysis (EDA) of the India GDP Ra
 [Matplotlib-image]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [ipython-image]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 
+# What is Exploratory Data Analysis?
+Exploratory Data Analysis (EDA) is a technique used to gain insights and understanding from a given dataset. It is an approach for analyzing and summarizing data that allows analysts to identify patterns, trends, and relationships within the data. EDA is typically the first step in the data analysis process and also is an iterative process that involves visualizing and summarizing the data in various ways.
+
+The main goal of EDA is to develop a deeper understanding of the data and identify any potential issue or limitation. This process allows analysts to clean and prepare the data for further analysis, and can also reveal insights that can guide the analysis to move in a proper direction.
+
+One of the key tools used in EDA is visualization. Visualizing data in various ways can reveal patterns and relationships that may not be immediately apparent when looking at raw data.  
+Common visualizations used in EDA include:
+  1. Histograms
+  2. Scatter plots
+  3. Box Plots
+  4. Bar Charts
+  5. Line Charts
+  6. Pie Chart or Donut Chart
+  7. Bubble Charts  
+These visualizations can be used to identify outliers, patterns, and trends in the data, and can also be used to compare different subsets of the data.
+
+Another important aspect of EDA is summarizing the data using statistical measures such as mean, median, standard deviation nd plotting the Corelation Matrix. These measures can be used to understand the distribution of the data and identify any potential outliers.
+
+EDA can also include data cleaning and preprocessing, which is the process of identifying and correcting errors or inconsistencies in the data. This can include handling missing data, removing outliers, or transforming variables to make the data more suitable for analysis.
+
+Overall, EDA is a crucial step in the data analysis process, as it allows analysts to gain a deeper understanding of the data and identify any potential issues or limitations before proceeding with more advanced analysis. It also can also be a great way to find the insights that can guide the further analysis.
+
+## Gross Domestic Product (GDP)
+Gross Domestic Product (GDP) is a measure of the economic activity of a country. It is the total value of goods and services produced within a country in a given period of time, typically a year. It is used to gauge the health of a country's economy and as a comparison tool between countries. It is also used to calculate other economic indicators such as Gross National Product (GNP) and Gross National Income (GNI).  
+
+## GDP per capita
+GDP per capita, which is GDP divided by the population, is often used as a measure of the standard of living in a country. However, it has some limitations as a measure of well-being, as it does not take into account factors such as income inequality and environmental sustainability.
+
 
