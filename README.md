@@ -43,4 +43,21 @@ GDP per capita, which is calculated by dividing the Gross Domestic Product (GDP)
 ## GDP Growth Rate
 The GDP growth rate is a measure of the change in a country's economic output over a specific period. It is commonly expressed as a percentage and is used to indicate the rate at which the economy is expanding. This measure is considered important by economic policymakers as it is believed to have a strong correlation with key policy objectives such as inflation and unemployment levels. The GDP growth rate is used as an indicator of a country's overall economic health and to compare the performance of different economies.
 
+## The Task:
+The task was to analyze the GDP Data of India and get some key insights about the GDP in India.
+
+## The Process:
+![Process](process.jpg)
+
+## About Data:
+The technique used for data collection is web scrapping and data is compiled in a CSV file. The CSV file consist of 4 Columns and has data from 1960 to 2021. 
+Data Columns are:
+    - Year = its Showing year of Indian GDP
+    - GDP ( Billions of US $) = its showing GDP ( Billions of US $) per year
+    - Per Capita= in this column per capita in rupees
+    - Growth= showing changes in every year in %
+
+## EDA (Data Analysis Results):
+Please Go thorugh the ipython file for more in detail analysis, below are some key Details.
+
 
